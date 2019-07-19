@@ -1,0 +1,2 @@
+echo "Install WinOperator components"
+
